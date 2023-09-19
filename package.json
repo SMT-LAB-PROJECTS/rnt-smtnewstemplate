@@ -1,0 +1,8 @@
+{
+  "name": "smtnewstemplate",
+  "version": "0.0.1",
+  "description": "SMT News Template",
+  "repository": "https://github.com/tarunsmtgroup/smt-news-template.git",
+  "author": "Tarun Upadhyay <tarunsmtgroup@gmail.com>",
+  "license": "MIT"
+}
